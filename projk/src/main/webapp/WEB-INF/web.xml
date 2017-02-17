@@ -23,7 +23,7 @@
     <init-param>
       <param-name>contextConfigLocation</param-name>
       <param-value>
-         /META-INF/applicationContext-dispatcherServlet.xml
+         /WEB-INF/applicationContext-dispatcherServlet.xml
       </param-value>
     </init-param>
   </servlet>
